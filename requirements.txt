@@ -1,3 +1,6 @@
 streamlit
 pandas
 chardet
+gspread
+google-auth
+google-auth-oauthlib
